@@ -1,0 +1,15 @@
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\bin\Debug\net7.0\HellowWorld.exe
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\bin\Debug\net7.0\HellowWorld.deps.json
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\bin\Debug\net7.0\HellowWorld.runtimeconfig.json
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\bin\Debug\net7.0\HellowWorld.dll
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\bin\Debug\net7.0\HellowWorld.pdb
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\obj\Debug\net7.0\HellowWorld.csproj.AssemblyReference.cache
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\obj\Debug\net7.0\HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\obj\Debug\net7.0\HellowWorld.AssemblyInfoInputs.cache
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\obj\Debug\net7.0\HellowWorld.AssemblyInfo.cs
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\obj\Debug\net7.0\HellowWorld.csproj.CoreCompileInputs.cache
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\obj\Debug\net7.0\HellowWorld.dll
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\obj\Debug\net7.0\refint\HellowWorld.dll
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\obj\Debug\net7.0\HellowWorld.pdb
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\obj\Debug\net7.0\HellowWorld.genruntimeconfig.cache
+C:\TrueCoders\GitHub\repos\HelloWorld\HellowWorld\obj\Debug\net7.0\ref\HellowWorld.dll
